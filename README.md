@@ -1,2 +1,2 @@
-# Prepcourse-henry
-pueba de repositorio ejercicio de modulo 2 de java 
+Sofia capdevila 
+prueba de como crear un repositorio desde github a mi escritorio 
